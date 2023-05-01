@@ -1,2 +1,6 @@
+
 hey
-make changes
+<<<<<<< HEAD
+1.make changes
+2.changes on firs commit branch 
+>>>>>>> aa2208e4fbc0bf6fc3cc616a67fef8127d1f95c3
